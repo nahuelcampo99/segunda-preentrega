@@ -2,6 +2,12 @@
 body{
     background-image:url(../assets/background.jpg) ;
 }
+section{
+    padding-top: 25px;
+}
+section div{
+    padding-bottom: 10px;
+}
 .navbar-logo img{width: 100px;
     border-radius: 150px;
 
